@@ -1,0 +1,58 @@
+.container{
+    max-width: 400px;
+    margin: 0 auto;
+    border: 1px solid burlywood;
+    border-radius: 1px;
+    padding: 20px;
+}
+.container h2{
+    text-align: center;
+}
+.form-group{
+    margin-bottom: 20px;
+}
+.form-group label{
+    margin-top: 5px;
+    display: block;
+    font-weight: bold;
+}
+.form-group input{
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid skyblue;
+}
+.form-group button{
+    width: 100%;
+    padding: 10px;
+    background-color: #21b5bb;
+    color: #c97516;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.form-group button:hover {
+    background-color: indianred;
+}
+body{
+    font-family: TlwgTypewriter;
+}
+.form-group textarea{
+    color: #2c2d2d;
+    font-family: TlwgTypewriter;
+    width: 100%;
+    border: 1px solid skyblue;
+    background-color: #fdfbf8;
+
+}
+.form-group select{
+    color: #171818;
+    font-family: TlwgTypewriter;
+    width: 100%;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid skyblue;
+    padding: 10px;
+    max-width: 400px;
+
+}

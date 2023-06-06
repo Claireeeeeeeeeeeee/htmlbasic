@@ -1,0 +1,58 @@
+ul{
+    list-style-type: none;
+   background-color: antiquewhite;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li,a{
+    padding: 15px;
+    display: block;
+   color: black;
+    font-family: "Century Schoolbook L";
+
+}li a:hover{
+background-color: darkorange;
+ }
+ .fruits{
+     background-color: darkorange;
+     border: 2px dotted purple;
+     margin: 1px;
+     padding: 50px;
+     text-align: center;
+     font-family: "DejaVu Sans Mono";
+
+ }
+ .cars{
+     background-color: purple;
+     border: 2px solid red;
+     margin: 10px;
+     padding: 40px;
+     text-align: center;
+     font-family: "Century Schoolbook L";
+ }
+ .FRUITS{
+     background-color: darkolivegreen;
+     border:2px solid palevioletred;
+     margin: 10px;
+     padding: 70px;
+     text-align: center;
+     font-family: aakar;
+ }
+ #gari{
+     background-color: #176de0;
+     border:2px solid palevioletred;
+     margin: 10px;
+     padding: 12px;
+     text-align: center;
+     font-family: "DejaVu Serif";
+ }
+ #matunda{
+     background-color: #c613da;
+     border:2px solid #dcd546;
+     margin: 10px;
+     padding: 70px;
+     text-align: center;
+     font-family: aakar;
+ }
